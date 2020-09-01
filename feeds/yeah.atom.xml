@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Locura y Pollo - yeah</title><link href="http://tomasparzen.github.io/" rel="alternate"></link><link href="http://tomasparzen.github.io/feeds/yeah.atom.xml" rel="self"></link><id>http://tomasparzen.github.io/</id><updated>2012-07-10T20:14:00+02:00</updated><entry><title>My super title</title><link href="http://tomasparzen.github.io/my-super-title.html" rel="alternate"></link><published>2012-07-09T22:28:00+02:00</published><updated>2012-07-10T20:14:00+02:00</updated><author><name>Alexis Métaireau</name></author><id>tag:tomasparzen.github.io,2012-07-09:/my-super-title.html</id><summary type="html">Short version for index and feeds</summary><content type="html">
+        This is the content of my super blog post.
+    </content><category term="yeah"></category><category term="thats"></category><category term="awesome"></category></entry></feed>
